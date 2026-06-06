@@ -2,4 +2,4 @@
 all blind75 solutions, different complexities showing different dsa
 
 
-tech used: vim, c++, stl
+tech used: vim, c++, stl, linux, neetcode blind 75 
