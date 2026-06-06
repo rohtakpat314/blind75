@@ -1,4 +1,4 @@
-// O(n^2) and O(1) solved using array indexing 
+// O(n^2) and O(1) solved using array indexing and nested loops 
 
 class Solution {
 public:
