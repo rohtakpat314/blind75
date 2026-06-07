@@ -1,3 +1,5 @@
+// time: O(n*klog(k)), space: O(n*k) 
+
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
